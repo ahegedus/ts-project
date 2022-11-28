@@ -1,3 +1,14 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Visual Studio Code
+#.vscode/*
+
 # Logs
 logs
 *.log
